@@ -1,0 +1,21 @@
+[
+    { 
+      "id": 1, 
+      "name": "Alice", 
+      "email": "alice@example.com", 
+      "mentor_id": 1 
+    },
+    { 
+      "id": 2, 
+      "name": "Bob", 
+      "email": "bob@example.com", 
+      "mentor_id": 1 
+    },
+    {
+      "id": 3, 
+      "name": "Martin", 
+      "email": "martin@example.com", 
+      "mentor_id": 2 
+    }
+]
+ 

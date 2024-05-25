@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "topic_name": "JavaScript Basics",
+        "date": "2020-10-05"
+    },
+    {
+        "id": "2",
+        "topic_name": "Advanced JavaScript",
+        "date": "2020-10-07"
+    },
+    {
+        "id": "3",
+        "topic_name": "Node.js Introduction",
+        "date": "2020-10-10"
+    }
+]

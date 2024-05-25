@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "company_name": "TechCorp",
+        "date": "2020-10-18",
+        "role": "Software Engineer",
+        "students_appeared": [1, 2]
+    },
+    {
+        "id": "2",
+        "company_name": "Innovatech",
+        "date": "2020-10-20",
+        "role": "Data Analyst",
+        "students_appeared": [1]
+    },
+    {
+        "id": "3",
+        "company_name": "Web Solutions",
+        "date": "2020-10-22",
+        "role": "Frontend Developer",
+        "students_appeared": [1, 3]
+    }
+]
