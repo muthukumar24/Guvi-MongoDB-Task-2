@@ -28,6 +28,16 @@
         "due_date": "2020-10-20",
         "submitted": "no",
         "topic_id": 3
+    },
+    {
+        "id": "4",
+        "user_id": "4",
+        "task_name": "Todo List",
+        "description": "Implement a todo list with CRUD operations.",
+        "date": "2020-10-18",
+        "due_date": "2020-10-25",
+        "submitted": "no",
+        "topic_id": 3
     }
 ]
   

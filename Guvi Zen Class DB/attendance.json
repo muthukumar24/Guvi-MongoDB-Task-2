@@ -16,5 +16,11 @@
         "user_id": "3",
         "date": "2020-10-18",
         "status": "absent"
+    },
+    {
+        "id": "4",
+        "user_id": "4",
+        "date": "2020-10-20",
+        "status": "absent"
     }
 ]
